@@ -5,3 +5,5 @@ MouseClick ,left, 950, 600, 1, 20,
 Sleep, 400
 Send {LWin}
 Send {S}
+Sleep, 2000
+Msg, Done
